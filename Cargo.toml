@@ -28,4 +28,4 @@ uuid = "1.7.0"
 axum = "0.7"
 time = "0.3"
 tokio = { version = "1.36", features = ["macros", "rt-multi-thread"] }
-tower-sessions = "0.10"
+tower-sessions = { git = "https://github.com/KernelFreeze/tower-sessions.git" }
