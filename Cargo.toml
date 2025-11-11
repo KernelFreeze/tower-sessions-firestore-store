@@ -16,7 +16,7 @@ readme = "README.md"
 [dependencies]
 async-trait = "0.1"
 chrono = { version = "0.4", features = ["serde"] }
-firestore = "0.44"
+firestore = "0.47"
 serde = { version = "1.0", features = ["derive"] }
 serde_json = "1.0.113"
 thiserror = "1.0"
